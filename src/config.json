@@ -3,19 +3,19 @@
     "url": "https://bardolight.github.io",
     "title": "博客",
     "description": "这是一个有理想的人走过的漫长道路",
-    "keywords": "Kunyi,blog,dream,indra,博客,逐梦",
+    "keywords": "Bardo,blog,dream,indra,博客,逐梦",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "Kunyi",
+    "name": "Bardo",
     "twitterId": "@lxchapu",
     "avatar": "/img/avatar.jpg"
   },
   "hero": {
-    "name": "Kunyi",
-    "bio": "一个为理想痴狂实干的疯子",
+    "name": "Bardo",
+    "bio": "我言秋日胜春朝",
     "description": "理想是追随稚晖君,欢迎一同学习",
     "socials": [
       {
@@ -41,15 +41,9 @@
         "icon": "icon-zhihu",
         "url": "https://www.zhihu.com/people/wen-dao-81-2-70",
         "color": "rgb(42, 147, 213)"
-      },
-      {
-        "name": "X",
-        "icon": "icon-x",
-        "url": "https://x.com/kunyi68226",
-        "color": "rgb(106,90,205)"
       }
     ],
-    "yiyan": "装作一个白日梦想家，然后征服全世界。"
+    "yiyan": "你的脸上没有化妆，我却疯狂爱上。"
   },
   "color": {
     "accent": [
