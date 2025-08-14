@@ -2,7 +2,7 @@
 title: 【知识地图#0】bardoの网站
 date: 2025-08-14
 summary: 重拾一下之前的网站
-category: bardoの网站
+category: 知识地图
 tags: [学习, 前端, 后端, github, vscode]
 comments: true
 ---
@@ -10,6 +10,22 @@ comments: true
 # 介绍
 
 讲述这个网站是如何被建立的，以及记录关键开发部分。
+
+# github以及astro模板部分
+
+一步一步地跟着视频走就行
+
+<!-- 修改后的嵌入代码，添加autoplay=0参数 -->
+<iframe 
+  src="https://player.bilibili.com/player.html?bvid=BV1oxsDesEwt&page=1&autoplay=0" 
+  scrolling="no" 
+  border="0" 
+  frameborder="no" 
+  framespacing="0" 
+  allowfullscreen="false"
+  width="800" 
+  height="450">
+</iframe>
 
 # vscode部分
 
@@ -35,6 +51,8 @@ comments: true
 
 **代码作用**：建立一个本地可以*实时观看改动*的网站，与最后发行版本有区别。
 
+ctrl+c中断
+
 ```
   git add .
   git commit -m "feat: test"
@@ -49,18 +67,8 @@ comments: true
 
 **代码作用**：**发行！！！**
 
-- **题目要求至上**
-
-  一定要留意题目中的**芯片和尺寸要求**，这里违规可能直通0分。
-
-- **三人分工要合适**
-
-  写代码可以分模块写再整合，思路有分歧可以不同的人各自修改再择优，不然一个人写的有很难修的bug就比较麻烦了。
-
-- **第一天发现缺少的东西，多买一些以备不时之需**
-
-  用不到的还可以七天无理由退货。但是后续发现没有就肯定寄了。
+::codepen{#NPGwpGY author="Chris Bolson"}
 
 # 写在最后
 
-在第一天我就看到不少人发出的成果展示，而我们到第四天也没能完成两个任务，深感挫败，虽然有许多原因，但并非不能预防和克服。比赛让我看到自己能力的差距，我想是时候激流勇进了……这次的挫败就当做[【逐晖计划】](../posts/zhuhui1)的开端吧。
+> 和她相遇的那天，我的脑海中只有一句话：草在结它的种子，风在摇它的叶子。我们站着，不说话，就十分美好。——顾城《门前》

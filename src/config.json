@@ -3,7 +3,7 @@
     "url": "https://bardolight.github.io",
     "title": "博客",
     "description": "这是一个有理想的人走过的漫长道路",
-    "keywords": "Bardo,blog,dream,indra,博客,逐梦",
+    "keywords": "Bardo,blog,dream,indra,博客",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
@@ -11,7 +11,7 @@
   "author": {
     "name": "Bardo",
     "twitterId": "@lxchapu",
-    "avatar": "/img/avatar.jpg"
+    "avatar": "/img/day1.png"
   },
   "hero": {
     "name": "Bardo",
@@ -21,29 +21,29 @@
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/drowsyindra",
+        "url": "https://github.com/bardolight",
         "color": "rgb(239, 70, 107)"
       },
       {
         "name": "bilibili",
         "icon": "icon-bilibili",
-        "url": "https://space.bilibili.com/3546706348084176",
+        "url": "https://space.bilibili.com/3494360500930659",
         "color": "rgb(245, 154, 155)"
       },
       {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:1162137506@qq.com",
+        "url": "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=x-X28PT39f-08-_HtrbppKiq",
         "color": "rgb(150, 215, 201)"
       },
       {
         "name": "Zhihu",
         "icon": "icon-zhihu",
-        "url": "https://www.zhihu.com/people/wen-dao-81-2-70",
+        "url": "https://www.zhihu.com/people/b-ue-15-2",
         "color": "rgb(42, 147, 213)"
       }
     ],
-    "yiyan": "你的脸上没有化妆，我却疯狂爱上。"
+    "yiyan": "我还是会在脑海里把万一实现的场景演练了一千遍。"
   },
   "color": {
     "accent": [
